@@ -1,0 +1,68 @@
+#title {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.col-3 {
+  /*width: 100%;*/
+}
+.col-3 p {
+  display: inline-block;
+  text-align: center;
+  width: 32%;
+  margin: 5px 0 20px 0;
+  border: 2px solid blue;
+  padding: 5px 0 5px 0;
+  background: lightblue;
+}
+
+table {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 20px;
+  text-align: center;
+  background: lightgrey;
+}
+
+table, th, td {
+  border: 1px solid grey;
+}
+
+.wrapping {
+  width: 75%;
+  margin: 4%
+}
+
+.lists {
+  width: 100%;
+  margin-left: 15%;
+  display: inline-block;
+}
+
+h4 {
+  text-align: center;
+}
+
+.ordered {
+  width: 48%;
+  margin: auto;
+  float: left;
+}
+
+.unordered {
+  width: 48%;
+  margin: auto;
+  float: left;
+}
+
+.images {
+  width: 100%;
+  align-items: center;
+  margin-left: 110px;
+}
+
+img {
+  margin: 6%;
+}
