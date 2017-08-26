@@ -1,0 +1,40 @@
+body {
+  background: grey
+}
+
+h3 {
+  text-align: center;
+}
+
+nav {
+  border: 2px dashed black;
+  width: 18%;
+  padding-bottom: 70px;
+  float: left;
+}
+
+img {
+  float: right;
+  margin-right: 200px;
+}
+
+.even-columns {
+  clear: both;
+}
+
+.left-column {
+  float: left;
+  border-right: 3px solid black;
+  text-align: center;
+  width: 48%;
+}
+
+.right-column {
+  float: right;
+  text-align: center;
+  width: 48%;
+}
+
+p {
+  font-size: 25px;
+}
